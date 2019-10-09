@@ -1,7 +1,4 @@
-mp3
-mp4
-wav
-data.json
-video.json
-words.txt
-extract_words.py
+__pycache__/
+files/
+json/
+ffmpeg.py
